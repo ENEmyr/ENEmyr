@@ -1,16 +1,15 @@
-### Hi there 👋
+## Personal Bio 🤔
 
-<!--
-**Untesler/untesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ENEmy's github stats](https://github-readme-stats.vercel.app/api?username=untesler&show_icons=true)
 
-Here are some ideas to get you started:
+*Greeting!, Currently I'm a 4th year computer science student who works as a research assistant in deep learning tasks (more specific is about object detection) and backend developer in part-time and also taking an internship as ML Engineer,But my ultimate desire is to be a HikkiNEET.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I'm interested (to be straight call it fascinated might be more accurate) in deep learning and neuroscience because I thought it's a good combination that can lead us to the real intelligence.*
+
+## Contact 📫
+
+Website : https://aichanserv.com/
+
+Medium : https://medium.com/@ENE_mee/
+
+Twitter : https://twitter.com/ENE_mee/
