@@ -1,7 +1,7 @@
 ## Personal Bio 🤔
 
 ![ENEmy's github stats](https://github-readme-stats.vercel.app/api?username=untesler&show_icons=true&theme=dark&count_private=true)
-![ENEmy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=untesler&theme=dark&hide=css,html)
+![ENEmy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=untesler&layout=compact&theme=dark&hide=css,html)
 
 *Greeting!, Currently I'm a 4th year computer science student who works as a research assistant in deep learning tasks (more specific is about object detection) and backend developer in part-time and also taking an internship as ML Engineer,But my ultimate desire is to be a HikkiNEET.*
 
