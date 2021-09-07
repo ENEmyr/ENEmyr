@@ -9,7 +9,7 @@
 
 ## Contact 📫
 
-Website : https://aichanserv.com/
+Website : https://dogmatism.me/
 
 Medium : https://medium.com/@ENE_mee/
 
