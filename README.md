@@ -10,7 +10,7 @@ Currently, I am a Master's student working part-time as a research assistant in 
 
 ## Contact 📫
 
-Website : https://dogmatism.me/
+Website : https://algoryth.me/
 
 Medium : https://medium.com/@ENE_mee/
 
