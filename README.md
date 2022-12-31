@@ -4,9 +4,9 @@
 ![ENEmy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ENEmyr&layout=compact&theme=dark&hide=css,html)
 
 *Greeting!,
-Currently, I am a Master's student working part-time as a research assistant in deep learning tasks (specifically, object detection) and as a backend developer, as well as taking an internship as an ML Engineer, but my ultimate goal is to be a HikkiNEET.*
+Right now, I'm a Master's student working part-time as a research assistant in deep learning tasks (specifically, object detection) and as a backend developer. I'm also doing an internship as an ML Engineer. My ultimate goal, though, is to be a HikkiNEET.*
 
-*I'm interested (or perhaps more accurately, fascinated) in deep learning and neuroscience because I believe it's a good combination that can lead us to true intelligence.*
+*I'm really interested (or maybe more accurately, fascinated) in deep learning and neuroscience because I think it's a great combination that could lead us to true intelligence.*
 
 ## Contact 📫
 
